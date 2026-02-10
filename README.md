@@ -1,10 +1,3 @@
-# GitHub Profile README — glacierphonk/glacierphonk
-
-**Create a repo named `glacierphonk` (matching the org/username) and add this as README.md**
-
----
-
-```markdown
 <div align="center">
 
 # GlacierPhonk™
@@ -41,4 +34,3 @@ Ship small. Ship often. No fluff.
 ---
 
 <sub>© 2026 GlacierPhonk™ · All rights reserved</sub>
-```
