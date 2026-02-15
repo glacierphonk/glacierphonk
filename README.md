@@ -19,13 +19,13 @@ GlacierPhonk is a one-person studio building tools for the Telegram ecosystem. B
 
 ### Tech stack
 
-`Python` · `Node.js` · `Telegram Bot API` · `Telegram Mini Apps` · `n8n` · `WordPress`
+`TypeScript` · `grammY` · `Drizzle ORM` · `Telegram Bot API` · `Telegram Mini Apps` · `n8n`
 
 ### Currently building
 
-- 🔧 Job board channels with smart filtering bots
+- 🔧 Extensible Telegram bot framework (grammY + Drizzle + plugin hooks)
 - 📱 Mini Apps for content browsing and discovery
-- ⚙️ Automation workflows for channel management
+- ⚙️ Automated channel management with n8n workflows
 
 ### Philosophy
 
