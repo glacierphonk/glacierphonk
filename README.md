@@ -1,6 +1,14 @@
 <div align="center">
 
-# GlacierPhonk™
+```
+                      ██████╗ ██████╗
+                     ██╔════╝ ██╔══██╗
+                     ██║  ███╗██████╔╝
+                     ██║   ██║██╔═══╝
+                     ╚██████╔╝██║
+                      ╚═════╝ ╚═╝
+               G L A C I E R P H O N K ™
+```
 
 **Solo dev studio. Telegram bots, Mini Apps, channels.**
 **Built cold and clean. Warsaw.**
