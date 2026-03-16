@@ -1,19 +1,8 @@
 <div align="center">
 
-```
+# G L A C I E R P H O N K &trade;
 
-  ██████╗ ██████╗
- ██╔════╝ ██╔══██╗
- ██║  ███╗██████╔╝
- ██║   ██║██╔═══╝
- ╚██████╔╝██║
-  ╚═════╝ ╚═╝
-
-  G L A C I E R P H O N K ™
-
-```
-
-**Custom Telegram bot development studio.**
+**Custom Telegram bot development studio.**<br>
 **Bots, Mini Apps, channel automation. Warsaw.**
 
 [![Website](https://img.shields.io/badge/glacierphonk.com-0A0E17?style=for-the-badge&logo=google-chrome&logoColor=00D4FF)](https://glacierphonk.com)
