@@ -13,34 +13,48 @@
 
 ```
 
-**Solo dev studio. Telegram bots, Mini Apps, channels.**
-**Built cold and clean. Warsaw.**
+**Custom Telegram bot development studio.**
+**Bots, Mini Apps, channel automation. Warsaw.**
 
 [![Website](https://img.shields.io/badge/glacierphonk.com-0A0E17?style=for-the-badge&logo=google-chrome&logoColor=00D4FF)](https://glacierphonk.com)
 [![Telegram](https://img.shields.io/badge/@glacierphonkhq-0A0E17?style=for-the-badge&logo=telegram&logoColor=00D4FF)](https://t.me/glacierphonkhq)
-[![X](https://img.shields.io/badge/@glacierphonk-0A0E17?style=for-the-badge&logo=x&logoColor=00D4FF)](https://x.com/glacierphonk)
+[![Start a project](https://img.shields.io/badge/Start_a_project-7B2FBE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GlacierPhonkBot)
 
 </div>
 
 ---
 
-### What this is
+### Services
 
-GlacierPhonk is a one-person studio building tools for the Telegram ecosystem. Bots, Mini Apps, automated channels — things that solve real problems for real users.
+**Custom Telegram Bots** — Payments, AI integration, notifications, admin controls. Every bot is a standalone TypeScript application with its own database and deployment pipeline.
 
-### Tech stack
+**Telegram Mini Apps** — Full web interfaces inside Telegram. Storefronts, dashboards, booking systems. Automatic user authentication, no app store friction.
 
-`TypeScript` · `grammY` · `Drizzle ORM` · `Telegram Bot API` · `Telegram Mini Apps` · `n8n`
+**Channel Automation** — Content channels that run on autopilot. Multi-source aggregation, AI-powered enrichment, scheduled publishing. Nothing posts without AI processing.
 
-### Currently building
+[See all services →](https://glacierphonk.com/services/)
 
-- 🔧 Extensible Telegram bot framework (grammY + Drizzle + plugin hooks)
-- 📱 Mini Apps for content browsing and discovery
-- ⚙️ Automated channel management with n8n workflows
+### Portfolio
 
-### Philosophy
+| Project | Type | What it does |
+|---------|------|-------------|
+| [**FridgeKit**](https://fridgekit.com) | bot + mini app | Kitchen inventory with receipt OCR (Claude Vision), Stars payments, 3-container microservices |
+| [**WP Jobs**](https://t.me/WordPressJobsPP) | channel | WordPress job aggregator — 24+ sources, AI-classified listings, 200+ subscribers |
+| [**WordPress Pulse**](https://t.me/WordPressPulse) | channel | WordPress ecosystem news — 15 RSS sources, AI summaries, daily automation |
+| [**Automation News**](https://t.me/AutomationNewsCh) | channel | Cross-niche automation coverage with AI-enriched content pipeline |
+| [**TillerDad**](https://tillerdad.com) | channel | AI-generated parenting content with 60-day topic tracking |
 
-Ship small. Ship often. No fluff.
+### Stack
+
+`TypeScript` · `grammY` · `Telegram Bot API` · `Telegram Stars` · `Claude AI` · `Docker` · `SQLite` · `GitHub Actions` · `EC2`
+
+### How it works
+
+**Talk** — describe your project, timeline, budget.
+**Scope** — we define the spec, timeline, and fixed price.
+**Ship** — we build, you review, we deploy. Maintenance available after launch.
+
+Full code ownership. No lock-in.
 
 ---
 
